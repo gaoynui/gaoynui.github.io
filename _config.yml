@@ -1,17 +1,15 @@
 future: true
 permalink: /:title/
-url: http://pmlpml.github.io
-name: Pan Sir
-author: Sir Pan
-qq: yourqq
-email: yourmail@mail2.sysu.edu.cn
+url: http://gaoynui.github.io
+name: GaoYang
+author: GaoYang
 
-duoshuo: yourname
-beian: 
-cnzz: 
-weibo: 
-github: yourID
-about: "这里是 Your 的个人博客，创建于 20xx 年。"
+qq: 374441211
+email: gaoy_1@outlook.com
+weChat: listen5240
+github: gaoynui
+
+about: "这里是高阳的个人博客，创建于2018.03年。"
 
 safe: true
 paginate: 20
