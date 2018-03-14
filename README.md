@@ -1,3 +1,4 @@
-# GaoYang(gaoynui.github.io)
- (gaoynui.github.io)
+# GaoYang's
+Web pages please visit http://gaoynui.github.io
+ 
 
