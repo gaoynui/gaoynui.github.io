@@ -13,10 +13,9 @@ layout: page
   <li class="listing-item">
     <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
     <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-    <p>	  
-      {{ post.excerpt | remove: '<p>' | remove: '</p>' }} &raquo;
-  	  <a href="{{ post.url }}">read more...</a>
-  	  </p>
+    {% if site.truncate %}
+    <p>{{ post.content | strip_html | truncate: site.truncate }}</p>
+    {% endif%}
   </li>
 {% endfor %}
 </ul>
@@ -54,3 +53,4 @@ layout: page
   {% endif %}
   (共{{ paginator.total_posts }}篇)
 </div>
+
