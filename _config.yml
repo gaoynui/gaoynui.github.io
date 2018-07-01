@@ -10,3 +10,5 @@ about: "这里是高阳的个人博客，创建于2018年。"
 safe: true
 paginate: 20
 
+
+theme: jekyll-theme-slate
