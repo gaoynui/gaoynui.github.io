@@ -20,7 +20,7 @@ by 15331089
 ![](https://github.com/gaoynui/gaoynui.github.io/blob/master/_posts/pictures/%E4%B8%AA%E4%BA%BA%E5%B7%A5%E4%BD%9C%E7%83%AD%E5%BA%A6.PNG?raw=true)  
 ![](https://github.com/gaoynui/gaoynui.github.io/blob/master/_posts/pictures/%E5%9B%A2%E9%98%9F%E5%B7%A5%E4%BD%9C.PNG?raw=true)  
 # 自我总结
-PSP 2.1统计表  
+## PSP 2.1统计表  
 
 | PSP 2.1 | How to do | Times(h) |
 |:------:|:---:|:----------:|
@@ -41,3 +41,11 @@ PSP 2.1统计表
 |Postmortem|事后总结|1|
 |Process Improvement Plan|提出过程改进计划|0|
 |Sum|合计|52|
+## 体会
+首先学到了很多需要在以后工作中用到的设计方法和思想，对软件的完整开发过程有了全新的认识，
+学会了使用工具绘制不同设计图来理清软件开发的步骤和层次。  
+也通过老师的讲解，了解了一个软件开发团队的分工协作，并通过开放的平台实时进行开发的监测和分享。当然，
+对UML的使用和其他架构的使用还不是很熟悉，对前端的开发，后端的了解也不是很前面，导致在具体实现上会遇到很多困难，
+我会在之后的学习中更加注重实践，并做到对知识和方法深刻理解。  
+在大作业的团队工作中，我没有完成分配的任务很对不起队员，也发现了自己能力上的不足，
+不过在团队中还是学到了很多必要的知识。以后的工作中肯定会是团队工作，这次的大作业是一个很好的锻炼。
