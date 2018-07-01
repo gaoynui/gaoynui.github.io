@@ -21,7 +21,23 @@ by 15331089
 ![](https://github.com/gaoynui/gaoynui.github.io/blob/master/_posts/pictures/%E5%9B%A2%E9%98%9F%E5%B7%A5%E4%BD%9C.PNG?raw=true)  
 # 自我总结
 PSP 2.1统计表  
-| Iter | Title | Est (week) | How to preview | Imp |
-|------|:---:|:----------:|----------------|------|
-|1|完成基本功能|4-5|选电影，选场次，选座位|5|
-|2|进一步完善基本功能|3-4|完成第一次迭代余下任务，随时按照需求更新 |5|
+
+| PSP 2.1 | How to do | Times(h) |
+|:------:|:---:|:----------:|
+|Planning|计划|3|
+|Estimate|估计自己的任务所需时间|3|
+|Development|开发|15|
+|Analysis|分析需求|10|
+|Design Spec|生成设计文档|4|
+|Design Review|设计复审（和同事审核设计文档）|2|
+|Coding Standard	|代码规范（为目前的开发制定合适的规范)|1|
+|Design	|具体设计|4|
+|Coding	|具体编码|2|
+|Code Review|代码复审|2|
+|Test	|测试（包括自测，修改代码，提交修改）|1|
+|Test Report|测试报告|0|
+|Report	|报告|4|
+|Size Measurement|计算工作量|0|
+|Postmortem|事后总结|1|
+|Process Improvement Plan|提出过程改进计划|0|
+|Sum|合计|52|
