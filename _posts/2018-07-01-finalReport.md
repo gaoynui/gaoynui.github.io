@@ -18,7 +18,7 @@ by 15331089
 后期：参与API设计，前端的部分实现。  
 ![](https://github.com/gaoynui/gaoynui.github.io/blob/master/_posts/pictures/%E8%BF%91%E6%9C%9F%E5%B7%A5%E4%BD%9C.PNG?raw=true)  
 ![](https://github.com/gaoynui/gaoynui.github.io/blob/master/_posts/pictures/%E4%B8%AA%E4%BA%BA%E5%B7%A5%E4%BD%9C%E7%83%AD%E5%BA%A6.PNG?raw=true)  
-![](https://github.com/gaoynui/gaoynui.github.io/blob/master/_posts/pictures/%E5%9B%A2%E9%98%9F%E5%B7%A5%E4%BD%9C.PNG?raw=true)  
+![](https://github.com/gaoynui/gaoynui.github.io/blob/master/_posts/pictures/insights.PNG?raw=true)  
 # 自我总结
 ## PSP 2.1统计表  
 
