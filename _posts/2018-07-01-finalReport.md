@@ -20,4 +20,8 @@ by 15331089
 ![](https://github.com/gaoynui/gaoynui.github.io/blob/master/_posts/pictures/%E4%B8%AA%E4%BA%BA%E5%B7%A5%E4%BD%9C%E7%83%AD%E5%BA%A6.PNG?raw=true)  
 ![](https://github.com/gaoynui/gaoynui.github.io/blob/master/_posts/pictures/%E5%9B%A2%E9%98%9F%E5%B7%A5%E4%BD%9C.PNG?raw=true)  
 # 自我总结
-PSP 2.1统计表
+PSP 2.1统计表  
+| Iter | Title | Est (week) | How to preview | Imp |
+|------|:---:|:----------:|----------------|------|
+|1|完成基本功能|4-5|选电影，选场次，选座位|5|
+|2|进一步完善基本功能|3-4|完成第一次迭代余下任务，随时按照需求更新 |5|
